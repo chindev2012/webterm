@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="ultrawebterm"
+  id="myeclipse.1346319763040"
+  context-root="/ultrawebterm"
+  j2ee-spec="5.0"
+  archive="ultrawebterm.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
